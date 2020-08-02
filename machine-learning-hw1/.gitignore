@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+data/gen_*.data
+
+__pycache__
+**/*.pyc
